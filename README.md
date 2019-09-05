@@ -7,7 +7,7 @@ Resumo básico dos recursos do simulador OMNet++
 
 * File -> Switch Workspace -> Other
 
-Obs: Ao trocar omnet++ reiniciará com o novo workspace.
+Obs: Ao trocar, o omnet++ reiniciará com o novo workspace.
 
 2- Alterar perpectiva para a de simulação (Organização das janelas da IDE no modo de simulação):
 
