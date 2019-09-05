@@ -1,7 +1,7 @@
 # OmnetForBeginners
 Resumo básico dos recursos do simulador OMNet++
 
-## **OMNeT++ User Guide - Version 5.5**
+## **OMNeT++ User Guide (Version 5.5)**
 
 ## **Cap 1 - Introdução**
 
