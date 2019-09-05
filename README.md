@@ -28,3 +28,23 @@ e deixe marcado "Support C++ Development" para que módulos simples possam ser c
 * No "Project Explorer" selecionar o projeto e clicar com botão direito;
 * No menu de contexto do projeto, clicar em "Properties";
 * Na opção "Project References" marcar os projetos de referencia existentes no Project Exolorer.
+
+Cap 2 - Editar Arquivos NED
+
+6- Criar um arquivo NED no projeto
+
+* Selecionar o projeto,
+* File -> New -> Network Description File (NED),
+* Poderá ser criado um arquivo NED vazio, com um módulo simples/composto ou uma rede.
+
+7- Pasta de origem de arquivos NED
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* No menu de contexto do projeto, clicar em "Properties";
+* Clicar na opção "OMNet++" e depois em "NED Source Folders". A pasta do projeto que será a origem deve ser escolhida.
+
+Obs: A pasta de origem padrão é a pasta raiz do projeto.
+
+8- Edição do arquivo NED no modo gráfico
+
+* Olhar vídeo e exemplo "Titoc 1 - Criação Grafica NED"
