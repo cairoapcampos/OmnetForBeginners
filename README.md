@@ -48,3 +48,106 @@ Obs: A pasta de origem padrão é a pasta raiz do projeto.
 8- Edição do arquivo NED no modo gráfico
 
 * Olhar vídeo e exemplo "Titoc 1 - Criação Grafica NED"
+
+
+## **Cap 3 - Editando Arquivos INI**
+
+9- Criar um arquivo ini no projeto
+
+* Selecionar o projeto,
+* File -> New -> Initialization File (Ini),
+* Selecinar "Empty Ini File" e depois definir a rede criada no arquivo NED.
+
+## **Cap 4 - Editando Arquivos de mensagens**
+
+10- Criação de mensagens
+
+* Selecionar o projeto,
+* File -> New -> Message Definition (msg),
+* Selecinar "Empty Message File" ou um modelo existente.
+
+## **Cap 5 - Desenvolvimento C ++**
+
+11- Teclas de Atalho:
+
+* Desfazer: (Ctrl + Z)
+* Refazer: (Ctrl + Y)
+* Alternar entre um código fonte e seu header file: (Ctrl + TAB)
+* Recuo correto (Identação): (Ctrl + I)
+* Localizar e substituir: (Ctrl + F)
+* Exlibir lista de teclas de atalho: (Ctrl + Shift + L)
+* Sugestão sobre variaveis, nomes de tipos, etc: (Ctrl + ESPAÇO)
+* Pressionar F3 ou segurar a tecla Ctrl e clicar em um identificador irá pular para a definição/declaração do mesmo.
+* Comentar/descomentar linhas selecionadas: (Ctrl + /)
+
+12- Construir (compilar um projeto):
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* No menu de contexto do projeto, clicar em "Build Project";
+
+Ou 
+
+* No "Project Explorer" selecionar o projeto;
+* Clicar no menu "Project" e depois clicar em "Build Project".
+
+13 - Compilar todos os projetos existentes no "Project Explorer":
+
+* Pressionar Ctrl + B
+
+ou 
+
+* Clicar no menu "Project" e depois clicar em "Build All".
+
+13- Limpar compilação do projeto:
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* No menu de contexto do projeto, clicar em "Clean Project";
+
+14- Diminuir tempo de compilação desativando recursos de projeto não utilizados (Ex: Recursos do inet):
+
+* Clicar no Menu "Project" e depois clicar na opção "Properties";
+* Na janela que será aberta selecionar no menu lateral, a opção "OMNet++" e depois em "Project Features";
+* Marcar/Desmarcar as caixas dos recursos para ativá-los/desativá-los.
+
+## Cap 6 - Ativação e Debugging (Depuração)
+
+15- Executar o projeto
+
+* No "Project Explorer" selecionar o projeto, pasta, arquivo ini ou arquivo NED;
+* Clicar no botão "Run";
+
+ou
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* Run As -> OMNet++ Simulation
+
+Obs: A pasta selecionada deve contem um arquivo ini ou NED.
+
+16- Depurar o projeto
+
+* No "Project Explorer" selecionar o projeto, pasta, arquivo ini ou arquivo NED;
+* Clicar no botão "Debug";
+
+ou
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* Debug As -> OMNet++ Simulation
+
+
+Obs: A pasta selecionada deve contem um arquivo ini ou NED.
+
+## **Cap 7 - O Ambiente de execução gráfico Qtenv e Cap 8 - O Ambiente de execução gráfico Tkenv**
+
+17- Alterar ambiente gráfico utilizado para rodar a simulação
+
+* Na seta ao lado do botão "Run", escolher a opção "Run Configurations";
+* No campo "User interface", selecionar Qtenv, Tkenv ou Cmdenv.
+
+18- Tipos de execução da simulação em Qtenv e Tkenv
+
+* Step - Execução somulação paso a passo;
+* Run (or Normal Run) - Possui animação da mensagem
+* Fast Run - Pode ser até 10 vezes mais rápido que o tipo de execução "Normal Run", porém a animação da mensagem é desabilitada.
+* Express Run - A simulação é executada aproximadamente na mesma velocidade que com o Cmdenv, além disso todo o rastreamento é desativado e o log do módulo não é gravado.
+* Run Until - Você pode executar a simulação até um tempo de simulação especificado, número de evento ou até uma mensagem específica for entregue ou cancelada.
+
