@@ -1,18 +1,17 @@
 # OmnetForBeginners
 Resumo básico dos recursos do simulador OMNet++
 
-
 ## Cap 1 - Introdução
 
 1- Trocar de workspace:
 
-File -> Switch Workspace -> Other
+* File -> Switch Workspace -> Other
 
 Obs: Ao trocar omnet++ reiniciará com o novo workspace.
 
 2- Alterar perpectiva para a de simulação (Organização das janelas da IDE no modo de simulação):
 
-Window -> Perspective -> Open Perspective -> Simulation
+* Window -> Perspective -> Open Perspective -> Simulation
 
 3- Alterar licença dos novos arquivos gerados:
 
