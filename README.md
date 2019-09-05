@@ -29,7 +29,7 @@ e deixe marcado "Support C++ Development" para que módulos simples possam ser c
 * No menu de contexto do projeto, clicar em "Properties";
 * Na opção "Project References" marcar os projetos de referencia existentes no Project Exolorer.
 
-Cap 2 - Editar Arquivos NED
+## **Cap 2 - Editar Arquivos NED**
 
 6- Criar um arquivo NED no projeto
 
