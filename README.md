@@ -45,10 +45,9 @@ e deixe marcado "Support C++ Development" para que módulos simples possam ser c
 
 Obs: A pasta de origem padrão é a pasta raiz do projeto.
 
-8- Edição do arquivo NED no modo gráfico
+8- Edição do arquivo NED no modo gráfico:
 
-* Olhar vídeo e exemplo "Titoc 1 - Criação Grafica NED"
-
+* https://www.youtube.com/watch?v=L2FLoL3wngE
 
 ## **Cap 3 - Editando Arquivos INI**
 
