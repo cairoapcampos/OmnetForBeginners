@@ -49,6 +49,8 @@ Obs: A pasta de origem padrão é a pasta raiz do projeto.
 
 [![](http://img.youtube.com/vi/L2FLoL3wngE/0.jpg)](http://www.youtube.com/watch?v=L2FLoL3wngE "How to Create new simulation Project in OMNeT++")
 
+[![Everything Is AWESOME](http://i.imgur.com/Ot5DWAW.png)](https://youtu.be/StTqXEQ2l-Y?t=35s "Everything Is AWESOME")
+
 ## **Cap 3 - Editando Arquivos INI**
 
 9- Criar um arquivo ini no projeto
