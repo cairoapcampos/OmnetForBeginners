@@ -168,3 +168,11 @@ Não resumido ainda
 * No menu de contexto clicar em "Generate NED Documentation".
 
 Obs: Após isso uma pasta "doc" será gerada dentro do projeto. Para ver a documentação basta abrir o arquivo index.html.
+
+# **Cap 12 - Estendendo o IDE**
+
+Não resumido ainda
+
+# **Apêndice A. Especificação doOperação 'Computar escalares'**
+
+Não resumido ainda
