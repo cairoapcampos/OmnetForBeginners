@@ -154,3 +154,17 @@ Obs: A pasta selecionada deve contem um arquivo ini ou NED.
 * Express Run - A simulação é executada aproximadamente na mesma velocidade que com o Cmdenv, além disso todo o rastreamento é desativado e o log do módulo não é gravado.
 * Run Until - Você pode executar a simulação até um tempo de simulação especificado, número de evento ou até uma mensagem específica for entregue ou cancelada.
 
+# **Cap 9 - Gráficos de Sequência**
+
+Não resumido ainda
+# **Cap 10 - Analisando os Resultados**
+
+Não resumido ainda
+# **Cap 11 - NED Documentation Generators**
+
+19- Gerando a Documentação
+
+* No "Project Explorer" selecionar o projeto e clicar com botão direito;
+* No menu de contexto clicar em "Generate NED Documentation".
+
+Obs: Após isso uma pasta "doc" será gerada dentro do projeto. Para ver a documentação basta abrir o arquivo index.html.
